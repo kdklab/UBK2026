@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Adjust or Replace? A Simulation Study Comparing Digital Twin-Based Covariate Adjustment and Virtual Control Groups in Animal Experiments"
+type: software
+authors:
+  - family-names: "Yılmaz"
+    given-names: "Bilge"
+    affiliation: "Ege University, Faculty of Medicine, Department of Histology and Embryology, İzmir, Türkiye"
+  - family-names: "Kılıç"
+    given-names: "Kubilay Doğan"
+    orcid: "https://orcid.org/0000-0002-9484-0777"
+    affiliation: "Ege University, Faculty of Medicine, Department of Histology and Embryology, İzmir, Türkiye"
+  - family-names: "Uyanıkgil"
+    given-names: "Yiğit"
+    affiliation: "Ege University, Faculty of Medicine, Department of Histology and Embryology, İzmir, Türkiye"
+date-released: 2026-11-13
+license: MIT
+keywords:
+  - 3Rs
+  - digital twin
+  - analysis of covariance
+  - historical controls
+  - Monte Carlo simulation
