@@ -4,7 +4,7 @@
 
 Presented at the **XXVII National and X International Biostatistics Congress (UBK2026)**, İzmir, Türkiye, 11–14 November 2026.
 
-**Authors:** Bilge Yılmaz (presenting author), Kubilay Doğan Kılıç (corresponding author, [ORCID 0000-0002-9484-0777](https://orcid.org/0000-0002-9484-0777)), Yiğit Uyanıkgil  
+**Authors:** Bilge Yılmaz (presenting author), Kubilay Doğan Kılıç, Yiğit Uyanıkgil  
 Department of Histology and Embryology, Faculty of Medicine, Ege University, İzmir, Türkiye  
 Contact: kubilay.dogan.kilic@ege.edu.tr
 
